@@ -14,3 +14,6 @@
 ### Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed. It positions the element in relation to the browser window. Therefore, when a user scrolls down the page, it stays in the exact same place. 
 ## Overlapping Elements (z-index)
 ### When you use relative, fixed, or absolute positioning, boxes can overlap. If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page. If you want to control which element sits on top, you can use the z-index property. Its value is a number, and the higher the number the closer that element is to the front.
+![Z-index](https://user-images.githubusercontent.com/70091044/92497820-7ed58400-f202-11ea-8f41-9a18fd10011b.PNG)
+## Floating Elements (float)
+### The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
